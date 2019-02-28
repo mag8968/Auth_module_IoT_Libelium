@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+D:\Right PC\mehdi\my project\version2 - two side\ProjectOutputs\Pick Place for Security_module_v2_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15.03.17
+Time:       15:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                      Layer       Footprint                Center-X(mm) Center-Y(mm) Rotation Description                                                                
+extension3 MHDR2X5                      TopLayer    extension_2X5            6.473        21.170       270      Header, 5-Pin, Dual row                                                    
+R7         R_0_0603_F                   TopLayer    RES_IMPERIAL_0603        30.548       25.369       0        Resistor, 0 ohm, 0.063W 0603, 1%                                           
+SCC        Smart Card Connector         BottomLayer BIG_SMART_CARD_CONNECTOR 27.993       15.367       360      Smartcard Connector with Switch                                            
+extension2 MHDR2X5                      TopLayer    extension_2X5            46.755       30.704       360      Header, 5-Pin, Dual row                                                    
+extension1 MHDR2X5                      TopLayer    extension_2X5            6.584        11.156       90       Header, 5-Pin, Dual row                                                    
+U2         LP3985IM5-3.3-NOPB           TopLayer    SOT23-5AN                45.052       18.509       90       Micropower, 3.3V, 150mA Low-Noise Ultra Low-Dropout CMOS Voltage Regulator 
+U1         TDA8029HL                    TopLayer    SOT358_L                 32.282       18.850       0        Smart Card Reader IC, SOT358                                               
+C13        C_10U_0603_X5R_K_10          TopLayer    CAP_IMPERIAL_0603        48.452       17.096       270      Capacitor, 10u, 0603, X5R, 10%, 10V                                        
+C12        C_4U7_0603_X5R_K_6           TopLayer    CAP_IMPERIAL_0603        41.729       18.788       90       Capacitor, 4u7, 0603 X5R, 10%, 6.3V                                        
+C11        C_10U_0603_X5R_K_10          TopLayer    CAP_IMPERIAL_0603        44.490       15.479       180      Capacitor, 10u, 0603, X5R, 10%, 10V                                        
+Jumper     Jumper                       TopLayer    HDR1X3                   53.094       12.479       90       Header, 3-Pin                                                              
+C10        220nF                        TopLayer    CAP_IMPERIAL_0603        32.496       12.039       360      Capacitor, 220n, 0603, X5R, 10%, 16V                                       
+C9         220nF                        TopLayer    CAP_IMPERIAL_0603        38.895       14.318       360      Capacitor, 220n, 0603, X5R, 10%, 16V                                       
+C8         220nF                        TopLayer    CAP_IMPERIAL_0603        38.368       17.117       270      Capacitor, 220n, 0603, X5R, 10%, 16V                                       
+C7         100nF                        TopLayer    CAP_IMPERIAL_0603        35.500       10.732       180      Capacitor, 100n, 0603, X5R, 10%, 16V                                       
+C5         100nF                        TopLayer    CAP_IMPERIAL_0603        24.146       19.307       270      Capacitor, 100n, 0603, X5R, 10%, 16V                                       
+C4         220nF                        TopLayer    CAP_IMPERIAL_0603        28.682       12.646       360      Capacitor, 220n, 0603, X5R, 10%, 16V                                       
+C3         22nF                         TopLayer    CAP_IMPERIAL_0603        25.985       17.093       270      Capacitor, 22n, 0603, X5R, 10%, 16V                                        
+C2         22pF                         TopLayer    CAP_IMPERIAL_0603        34.267       26.629       270      Capacitor, 22p, 0603, NPO, 10%, 16V                                        
+C1         22pF                         TopLayer    CAP_IMPERIAL_0603        40.465       26.506       90       Capacitor, 22p, 0603, NPO, 10%, 16V                                        
+R1         R_100_0603_F                 TopLayer    RES_IMPERIAL_0603        26.747       5.957        180      Resistor, 100 ohms, 0603, 1%                                               
+C6         33pF                         TopLayer    CAP_IMPERIAL_0603        26.679       8.348        180      Capacitor, 33p, 0603, NPO, 10%, 16V                                        
+USB        Micro-USB Receptacle         TopLayer    M105017-0001             45.797       3.589        360      M105017-0001                                                               
+R3         10k                          TopLayer    RES_IMPERIAL_0603        19.917       7.653        90       Resistor, 10k ohms, 0603, 1%, 0.063W                                       
+R2         10k                          TopLayer    RES_IMPERIAL_0603        17.356       7.698        90       Resistor, 10k ohms, 0603, 1%, 0.063W                                       
+X1         14.7456MHz                   TopLayer    BT-XTAL_3225             37.386       26.363       360      XTAL SMD 3225, 18pF, -/+30ppm                                              
+C14        C_10U_0603_X5R_K_10          TopLayer    CAP_IMPERIAL_0603        49.983       9.849        180      Capacitor, 10u, 0603, X5R, 10%, 10V                                        
+R4         R_100_0603_F                 TopLayer    RES_IMPERIAL_0603        22.709       13.803       180      Resistor, 100 ohms, 0603, 1%                                               
+H1         Header                       TopLayer    HDR1X6                   13.227       2.233        360      Header, 6-Pin                                                              
+LED1       BLUE_LED_0603_2.1V_10mA_6mcd TopLayer    LED_IMPERIAL_0603_BLUE   52.628       24.192       180      Blue LED, 0603, 2.1V, 10mA, 6mcd                                           
+R6         R_1K_0603_F                  TopLayer    RES_IMPERIAL_0603        51.821       21.211       90       Resistor, 1k ohms, 0603, 1%                                                

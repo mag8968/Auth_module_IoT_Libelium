@@ -1,0 +1,11 @@
+<!-- Indices written at Wed, 23 Sep 2015 20:07:48 CEST -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="SensorReport" ancestor="false" source="auto">
+        <property name="tagCode" direction="asc"/>
+        <property name="reportDateTime" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Right PC\mehdi\my project\version1 - ATMEGA -normal\Security_module_v1_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=security_module_v1_pcb-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=security_module_v1_pcb-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=security_module_v1_pcb-roundholes-nonplated.txt|DrillLayers=gtl,gbl

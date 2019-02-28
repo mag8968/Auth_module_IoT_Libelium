@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Security_module_v1_PCB.PcbDoc   31.03.2017  16:54:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Security_module_v1_PCB-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Security_module_v1_PCB-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Security_module_v1_PCB-SlotHoles-Plated.TXT
+EIA File   : Security_module_v1_PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             254       PTH        935.45mm (36.83inch)
+T2      0.6mm (24mil)                                             Round             25        PTH        71.44mm (2.81inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        29.51mm (1.16inch)
+T4      0.9mm (35mil)                                             Round             15        PTH        122.88mm (4.84inch)
+T5      3mm (118mil)                                              Round             4         PTH        161.00mm (6.34inch)
+T7      2.2mm (87mil)                                             Round             4         NPTH       127.00mm (5.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              306
+
+Total Processing Time (hh:mm:ss) : 00:00:00

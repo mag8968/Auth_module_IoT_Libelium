@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Right PC\mehdi\my project\version2 - two side\Security_module_v2_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=security_module_v2_pcb-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=security_module_v2_pcb-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=security_module_v2_pcb-roundholes-nonplated.txt|DrillLayers=gtl,gbl
